@@ -1,3 +1,8 @@
 torch
 numpy
 pillow
+torchvision
+pandas
+scikit-learn
+matplotlib
+jupyter

@@ -6,3 +6,9 @@ pandas
 scikit-learn
 matplotlib
 jupyter
+xarray
+netcdf4
+scipy
+einops
+kaggle
+seaborn
